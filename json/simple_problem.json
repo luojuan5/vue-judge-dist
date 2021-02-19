@@ -2,25 +2,38 @@
     "error": null,
     "data": {
         "results": [{
-                "id": 9,
-                "lang_type": "CPP",
-                "problem_type": "comprehend",
-                "problem_title": "鸡兔同笼问题",
-                "problem_content": "小明有两只鸡，一只兔，请你推算月亮到地球的距离是__KM",
-                "private": true,
-                "options": ["1", "2"]
-            },
-            {
-                "id": 10,
-                "lang_type": "CPP",
-                "problem_type": "comprehend",
-                "problem_title": "鸡兔同笼问题",
-                "problem_content": "小明有两只鸡，一只兔，请你推算月亮到地球的距离是__KM",
-                "private": true,
-                "options": ["1", "2"]
-            }
-        ],
-        "total": 10
+            "id": 9,
+            "lang_type": "CPP",
+            "problem_type": "comprehend",
+            "problem_title": "鸡兔同笼问题",
+            "problem_content": "小明有两只鸡，一只兔，请你推算月亮到地球的距离是__KM",
+            "problem_difficulty": "Low",
+            "problem_label": "深度优先搜索",
+            "problem_status": "已完成",
+            "problem_marker": "0",
+            "tags": [
+                [
+                    1,
+                    "testtag1"
+                ],
+                [
+                    2,
+                    "tsettag2"
+                ]
+            ],
+            "private": true,
+            "options": [
+                "1",
+                "2"
+            ]
+        }],
+        "page_total": 10,
+        "page_per": 10,
+        "page_current": 10,
+        "total_simple": 10,
+        "total_difficult": 10,
+        "total_common": 10,
+        "total": 10,
+        "finished": 10
     }
-
 }
